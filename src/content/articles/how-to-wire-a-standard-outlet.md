@@ -4,6 +4,7 @@ description: "A step-by-step guide to safely replacing or installing a standard 
 pubDate: 2026-04-07
 author: "AmperageHQ Team"
 tags: ["outlets", "wiring", "DIY", "safety", "residential"]
+image: "https://images.unsplash.com/photo-exfrR9KkzlE?auto=format&fit=crop&w=800&q=80"
 ---
 
 Replacing a worn outlet or installing a new one is one of the most common electrical tasks homeowners and apprentice electricians encounter. Done correctly, it takes 15–30 minutes. Done incorrectly, it creates a fire or shock hazard. This guide walks you through the entire process safely.

@@ -10,7 +10,9 @@ const articles = defineCollection({
     updatedDate: z.coerce.date().optional(),
     author: z.string().default('AmperageHQ Team'),
     tags: z.array(z.string()).default([]),
+    image: z.string().optional(),
   }),
 });
 
 export const collections = { articles };
+
