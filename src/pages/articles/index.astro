@@ -3,7 +3,7 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
 import AdSlot from '@/components/AdSlot.astro';
 import { getCollection } from 'astro:content';
 
-const DEFAULT_IMAGE = "https://images.unsplash.com/photo-PkHf7BUWbtk?auto=format&fit=crop&w=800&q=80";
+const DEFAULT_IMAGE = "https://images.pexels.com/photos/257736/pexels-photo-257736.jpeg?auto=compress&cs=tinysrgb&w=800";
 
 const articles = (await getCollection('articles'))
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
