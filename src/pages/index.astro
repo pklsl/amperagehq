@@ -1,0 +1,95 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import AdSlot from '@/components/AdSlot.astro';
+import EmailSignup from '@/components/EmailSignup.astro';
+import { getCollection } from 'astro:content';
+
+const articles = (await getCollection('articles'))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+  .slice(0, 3);
+---
+
+<BaseLayout title="Home" description="AmperageHQ — Your trusted source for electrical wiring guides, NEC code tips, and safety resources for professionals and DIY electricians.">
+  <!-- Hero -->
+  <section class="bg-surface-dark text-white py-20">
+    <div class="max-w-6xl mx-auto px-4 text-center">
+      <h1 class="text-4xl md:text-5xl font-bold font-heading mb-4">
+        Your Electrical Reference Headquarters
+      </h1>
+      <p class="text-xl text-gray-300 max-w-2xl mx-auto mb-8">
+        Expert wiring guides, NEC code breakdowns, and safety resources for licensed electricians and confident DIYers.
+      </p>
+      <a
+        href="/articles"
+        class="inline-block bg-primary hover:bg-primary-dark text-white font-semibold px-8 py-3 rounded-lg transition-colors duration-200"
+      >
+        Browse Articles
+      </a>
+    </div>
+  </section>
+
+  <div class="max-w-6xl mx-auto px-4 py-4">
+    <AdSlot slot="home-in-content-1" format="horizontal" lazy={true} minHeight="90px" />
+  </div>
+
+  <!-- Features -->
+  <section class="py-16">
+    <div class="max-w-6xl mx-auto px-4">
+      <h2 class="text-3xl font-bold text-center mb-12 font-heading">Why AmperageHQ?</h2>
+      <div class="grid md:grid-cols-3 gap-8">
+        <div class="text-center p-6">
+          <div class="text-primary text-4xl mb-4">&#9889;</div>
+          <h3 class="text-xl font-semibold mb-2">Professional Wiring Guides</h3>
+          <p class="text-text-muted">
+            In-depth technical guides written for licensed electricians and apprentices on the job.
+          </p>
+        </div>
+        <div class="text-center p-6">
+          <div class="text-primary text-4xl mb-4">&#128218;</div>
+          <h3 class="text-xl font-semibold mb-2">NEC Code Explained</h3>
+          <p class="text-text-muted">
+            Plain-English breakdowns of National Electrical Code requirements so you stay compliant and safe.
+          </p>
+        </div>
+        <div class="text-center p-6">
+          <div class="text-primary text-4xl mb-4">&#128295;</div>
+          <h3 class="text-xl font-semibold mb-2">DIY Safety Resources</h3>
+          <p class="text-text-muted">
+            Step-by-step guides for homeowners tackling electrical projects — with the safety information to do it right.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="max-w-6xl mx-auto px-4 py-4">
+    <AdSlot slot="home-in-content-2" format="horizontal" lazy={true} minHeight="90px" />
+  </div>
+
+  <!-- Latest Articles -->
+  {articles.length > 0 && (
+    <section class="py-16 bg-gray-50">
+      <div class="max-w-6xl mx-auto px-4">
+        <h2 class="text-3xl font-bold text-center mb-12 font-heading">Latest Articles</h2>
+        <div class="grid md:grid-cols-3 gap-8">
+          {articles.map((article) => (
+            <a href={`/articles/${article.id}`} class="bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow p-6 block">
+              <time class="text-sm text-text-muted" datetime={article.data.pubDate.toISOString()}>
+                {article.data.pubDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+              </time>
+              <h3 class="text-lg font-semibold mt-2 mb-2">{article.data.title}</h3>
+              <p class="text-text-muted text-sm">{article.data.description}</p>
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <!-- Email Signup CTA -->
+  <section class="py-16">
+    <div class="max-w-6xl mx-auto px-4">
+      <EmailSignup />
+    </div>
+  </section>
+</BaseLayout>
