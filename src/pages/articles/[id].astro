@@ -3,8 +3,20 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
 import AdSlot from '@/components/AdSlot.astro';
 import AffiliateDisclosure from '@/components/AffiliateDisclosure.astro';
 import EmailCapture from '@/components/EmailCapture.astro';
+import LeadGenForm from '@/components/LeadGenForm.astro';
 import ProductRecommendations from '@/components/ProductRecommendations.astro';
 import { getCollection, render } from 'astro:content';
+
+const ELECTRICAL_SERVICES = [
+  'Electrical Panel Upgrade',
+  'Wiring Installation',
+  'Outlet / Switch Installation',
+  'EV Charger Installation',
+  'Electrical Inspection',
+  'Lighting Installation',
+  'Generator Installation',
+  'Other Electrical Service',
+];
 
 export async function getStaticPaths() {
   const articles = await getCollection('articles');
@@ -74,6 +86,12 @@ const ckFormId = import.meta.env.PUBLIC_CK_FORM_ID || '';
             siteId="amperagehq"
             placementType="cta"
             leadMagnetLabel="Home Wiring Safety Checklist"
+          />
+          <LeadGenForm
+            siteId="amperagehq"
+            serviceTypes={ELECTRICAL_SERVICES}
+            heading="Need an Electrician? Get a Free Estimate"
+            subheading="Connect with a licensed local electrician — no obligation."
           />
           <div class="mt-6">
             <AffiliateDisclosure variant="full" />
