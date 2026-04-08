@@ -8,24 +8,59 @@ const DEFAULT_IMAGE = "https://images.pexels.com/photos/257736/pexels-photo-2577
 const articles = (await getCollection('articles'))
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
   .slice(0, 3);
+
+const featuredArticle = articles[0];
 ---
 
 <BaseLayout title="Home" description="AmperageHQ — Your trusted source for electrical wiring guides, NEC code tips, and safety resources for professionals and DIY electricians.">
-  <!-- Hero -->
-  <section class="bg-surface-dark text-white py-20">
-    <div class="max-w-6xl mx-auto px-4 text-center">
-      <h1 class="text-4xl md:text-5xl font-bold font-heading mb-4">
-        Your Electrical Reference Headquarters
-      </h1>
-      <p class="text-xl text-gray-300 max-w-2xl mx-auto mb-8">
-        Expert wiring guides, NEC code breakdowns, and safety resources for licensed electricians and confident DIYers.
-      </p>
-      <a
-        href="/articles"
-        class="inline-block bg-primary hover:bg-primary-dark text-white font-semibold px-8 py-3 rounded-lg transition-colors duration-200"
-      >
-        Browse Articles
-      </a>
+  <!-- Hero: Cover image with blog description -->
+  <section class="py-16 md:py-24 bg-white">
+    <div class="max-w-6xl mx-auto px-4">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <!-- Left: text content -->
+        <div>
+          <div class="flex items-center gap-3 mb-6">
+            <span class="bg-primary text-white text-xs font-bold uppercase tracking-widest px-3 py-1 rounded-full">Electrical</span>
+            {featuredArticle && (
+              <time class="text-sm text-text-muted" datetime={featuredArticle.data.pubDate.toISOString()}>
+                {featuredArticle.data.pubDate.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}
+              </time>
+            )}
+          </div>
+          <h1 class="text-4xl md:text-5xl font-bold font-heading text-text leading-tight mb-6">
+            Your Electrical Reference Headquarters
+          </h1>
+          <p class="text-lg text-text-muted mb-8 leading-relaxed">
+            Expert wiring guides, NEC code breakdowns, and safety resources for licensed electricians and confident DIYers. Master every circuit with confidence.
+          </p>
+          <div class="flex items-center gap-4">
+            <div class="w-10 h-10 rounded-full bg-primary flex items-center justify-center text-white font-bold text-sm flex-shrink-0">
+              AH
+            </div>
+            <div>
+              <p class="font-semibold text-text text-sm">AmperageHQ Team</p>
+              <p class="text-text-muted text-xs">5 mins to read</p>
+            </div>
+            <a
+              href="/articles"
+              class="ml-auto inline-block bg-primary hover:bg-primary-dark text-white font-semibold px-6 py-2.5 rounded-lg transition-colors duration-200 text-sm"
+            >
+              Browse Articles
+            </a>
+          </div>
+        </div>
+        <!-- Right: hero image -->
+        <div class="relative">
+          <div class="rounded-2xl overflow-hidden shadow-xl aspect-[4/3] bg-gradient-to-br from-primary to-primary-dark">
+            <img
+              src="https://images.pexels.com/photos/1249611/pexels-photo-1249611.jpeg?auto=compress&cs=tinysrgb&w=800"
+              alt="Electrician working on an electrical panel"
+              class="w-full h-full object-cover"
+              loading="eager"
+            />
+          </div>
+        </div>
+      </div>
     </div>
   </section>
 
@@ -33,45 +68,11 @@ const articles = (await getCollection('articles'))
     <AdSlot slot="home-in-content-1" format="horizontal" lazy={true} minHeight="90px" />
   </div>
 
-  <!-- Features -->
-  <section class="py-16">
-    <div class="max-w-6xl mx-auto px-4">
-      <h2 class="text-3xl font-bold text-center mb-12 font-heading">Why AmperageHQ?</h2>
-      <div class="grid md:grid-cols-3 gap-8">
-        <div class="text-center p-6">
-          <div class="text-primary text-4xl mb-4">&#9889;</div>
-          <h3 class="text-xl font-semibold mb-2">Professional Wiring Guides</h3>
-          <p class="text-text-muted">
-            In-depth technical guides written for licensed electricians and apprentices on the job.
-          </p>
-        </div>
-        <div class="text-center p-6">
-          <div class="text-primary text-4xl mb-4">&#128218;</div>
-          <h3 class="text-xl font-semibold mb-2">NEC Code Explained</h3>
-          <p class="text-text-muted">
-            Plain-English breakdowns of National Electrical Code requirements so you stay compliant and safe.
-          </p>
-        </div>
-        <div class="text-center p-6">
-          <div class="text-primary text-4xl mb-4">&#128295;</div>
-          <h3 class="text-xl font-semibold mb-2">DIY Safety Resources</h3>
-          <p class="text-text-muted">
-            Step-by-step guides for homeowners tackling electrical projects — with the safety information to do it right.
-          </p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <div class="max-w-6xl mx-auto px-4 py-4">
-    <AdSlot slot="home-in-content-2" format="horizontal" lazy={true} minHeight="90px" />
-  </div>
-
-  <!-- Latest Articles -->
+  <!-- Latest Articles with thumbnails -->
   {articles.length > 0 && (
-    <section class="py-16 bg-gray-50">
+    <section class="py-16 bg-surface">
       <div class="max-w-6xl mx-auto px-4">
-        <h2 class="text-3xl font-bold text-center mb-12 font-heading">Latest Articles</h2>
+        <h2 class="text-2xl font-bold font-heading mb-10">Latest Articles</h2>
         <div class="grid md:grid-cols-3 gap-8">
           {articles.map((article) => (
             <a
@@ -112,6 +113,10 @@ const articles = (await getCollection('articles'))
       </div>
     </section>
   )}
+
+  <div class="max-w-6xl mx-auto px-4 py-4">
+    <AdSlot slot="home-in-content-2" format="horizontal" lazy={true} minHeight="90px" />
+  </div>
 
   <!-- Email Signup CTA -->
   <section class="py-16">
