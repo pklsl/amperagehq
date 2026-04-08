@@ -19,20 +19,6 @@ const featuredArticle = articles[0];
       <div class="grid lg:grid-cols-2 gap-12 items-center">
         <!-- Left: text content -->
         <div>
-          <div class="flex items-center gap-3 mb-6">
-            {featuredArticle?.data.tags[0] ? (
-              <span class="bg-primary/10 text-primary text-xs font-bold uppercase tracking-widest px-3 py-1 rounded-full">
-                {featuredArticle.data.tags[0]}
-              </span>
-            ) : (
-              <span class="bg-primary/10 text-primary text-xs font-bold uppercase tracking-widest px-3 py-1 rounded-full">Electrical</span>
-            )}
-            {featuredArticle && (
-              <time class="text-sm text-text-muted" datetime={featuredArticle.data.pubDate.toISOString()}>
-                {featuredArticle.data.pubDate.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}
-              </time>
-            )}
-          </div>
           <h1 class="text-4xl md:text-5xl font-bold font-heading text-text leading-tight mb-6">
             Your Electrical Reference Headquarters
           </h1>
