@@ -20,7 +20,13 @@ const featuredArticle = articles[0];
         <!-- Left: text content -->
         <div>
           <div class="flex items-center gap-3 mb-6">
-            <span class="bg-primary text-white text-xs font-bold uppercase tracking-widest px-3 py-1 rounded-full">Electrical</span>
+            {featuredArticle?.data.tags[0] ? (
+              <span class="bg-primary/10 text-primary text-xs font-bold uppercase tracking-widest px-3 py-1 rounded-full">
+                {featuredArticle.data.tags[0]}
+              </span>
+            ) : (
+              <span class="bg-primary/10 text-primary text-xs font-bold uppercase tracking-widest px-3 py-1 rounded-full">Electrical</span>
+            )}
             {featuredArticle && (
               <time class="text-sm text-text-muted" datetime={featuredArticle.data.pubDate.toISOString()}>
                 {featuredArticle.data.pubDate.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}
@@ -33,32 +39,25 @@ const featuredArticle = articles[0];
           <p class="text-lg text-text-muted mb-8 leading-relaxed">
             Expert wiring guides, NEC code breakdowns, and safety resources for licensed electricians and confident DIYers. Master every circuit with confidence.
           </p>
-          <div class="flex items-center gap-4">
-            <div class="w-10 h-10 rounded-full bg-primary flex items-center justify-center text-white font-bold text-sm flex-shrink-0">
-              AH
-            </div>
-            <div>
-              <p class="font-semibold text-text text-sm">AmperageHQ Team</p>
-              <p class="text-text-muted text-xs">5 mins to read</p>
-            </div>
-            <a
-              href="/articles"
-              class="ml-auto inline-block bg-primary hover:bg-primary-dark text-white font-semibold px-6 py-2.5 rounded-lg transition-colors duration-200 text-sm"
-            >
-              Browse Articles
-            </a>
-          </div>
+          <a
+            href="/articles"
+            class="inline-block bg-primary hover:bg-primary-dark text-white font-semibold px-8 py-3 rounded-lg transition-colors duration-200"
+          >
+            Browse Articles
+          </a>
         </div>
         <!-- Right: hero image -->
         <div class="relative">
-          <div class="rounded-2xl overflow-hidden shadow-xl aspect-[4/3] bg-gradient-to-br from-primary to-primary-dark">
-            <img
-              src="https://images.pexels.com/photos/1249611/pexels-photo-1249611.jpeg?auto=compress&cs=tinysrgb&w=800"
-              alt="Electrician working on an electrical panel"
-              class="w-full h-full object-cover"
-              loading="eager"
-            />
-          </div>
+          <a href={featuredArticle ? `/articles/${featuredArticle.id}` : '/articles'} class="block">
+            <div class="rounded-2xl overflow-hidden shadow-xl aspect-[4/3]">
+              <img
+                src={featuredArticle?.data.image || DEFAULT_IMAGE}
+                alt={featuredArticle?.data.title || 'Electrical Resource'}
+                class="w-full h-full object-cover"
+                loading="eager"
+              />
+            </div>
+          </a>
         </div>
       </div>
     </div>

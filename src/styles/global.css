@@ -11,6 +11,6 @@
   --color-surface-dark: #111827;
   --color-text: #1e293b;
   --color-text-muted: #64748b;
-  --font-heading: 'system-ui', sans-serif;
-  --font-body: 'system-ui', sans-serif;
+  --font-heading: 'Inter', sans-serif;
+  --font-body: 'Inter', sans-serif;
 }
