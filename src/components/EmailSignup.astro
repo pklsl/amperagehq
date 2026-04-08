@@ -5,7 +5,6 @@ interface Props {
   ctaText?: string;
   leadMagnet?: string;
   variant?: 'full' | 'compact' | 'inline';
-  source?: string;
 }
 
 const {
@@ -16,11 +15,13 @@ const {
   variant = 'full',
 } = Astro.props;
 
-const formId = `email-signup-${variant}-${Math.random().toString(36).slice(2, 8)}`;
+const ckApiKey = import.meta.env.PUBLIC_CK_API_KEY || '';
+const ckFormId = import.meta.env.PUBLIC_CK_FORM_ID || '';
+const uid = `email-signup-${variant}-${Math.random().toString(36).slice(2, 8)}`;
 ---
 
 {variant === 'inline' ? (
-  <form id={formId} class="email-signup-form flex gap-2" data-lead-magnet={leadMagnet}>
+  <form id={uid} class="email-signup-form flex gap-2">
     <input
       type="email"
       name="email"
@@ -30,7 +31,7 @@ const formId = `email-signup-${variant}-${Math.random().toString(36).slice(2, 8)
     />
     <button
       type="submit"
-      class="bg-primary hover:bg-primary-light text-white font-semibold px-5 py-2 rounded-lg transition-colors duration-200 text-sm whitespace-nowrap"
+      class="bg-accent hover:bg-accent-light text-white font-semibold px-5 py-2 rounded-lg transition-colors duration-200 text-sm whitespace-nowrap"
     >
       {ctaText}
     </button>
@@ -39,37 +40,37 @@ const formId = `email-signup-${variant}-${Math.random().toString(36).slice(2, 8)
   <div class="email-signup bg-surface-dark text-white rounded-lg p-6">
     <h3 class="text-lg font-bold mb-2">{heading}</h3>
     <p class="text-sm text-gray-300 mb-4">{description}</p>
-    <form id={formId} class="email-signup-form space-y-3" data-lead-magnet={leadMagnet}>
+    <form id={uid} class="email-signup-form space-y-3">
       <input
         type="email"
         name="email"
         required
         placeholder="Enter your email address"
-        class="w-full px-4 py-2 border border-gray-600 rounded-lg focus:ring-2 focus:ring-primary focus:border-transparent outline-none text-sm bg-gray-800 text-white placeholder-gray-400"
+        class="w-full px-4 py-2 border border-gray-600 rounded-lg focus:ring-2 focus:ring-accent focus:border-transparent outline-none text-sm bg-gray-800 text-white placeholder-gray-400"
       />
       <button
         type="submit"
-        class="w-full bg-primary hover:bg-primary-light text-white font-semibold px-5 py-2 rounded-lg transition-colors duration-200 text-sm"
+        class="w-full bg-accent hover:bg-accent-light text-white font-semibold px-5 py-2 rounded-lg transition-colors duration-200 text-sm"
       >
         {ctaText}
       </button>
     </form>
     <p class="text-xs text-gray-500 mt-3">
-      No spam. Unsubscribe anytime. View our <a href="/privacy-policy" class="text-primary hover:text-primary-light underline">Privacy Policy</a>.
+      No spam. Unsubscribe anytime. View our <a href="/privacy-policy" class="text-accent hover:text-accent-light underline">Privacy Policy</a>.
     </p>
   </div>
 ) : (
   <div class="email-signup bg-gradient-to-br from-primary to-primary-dark text-white rounded-xl p-8 md:p-12">
     <div class="max-w-xl mx-auto text-center">
       <h2 class="text-2xl md:text-3xl font-bold mb-3 font-heading">{heading}</h2>
-      <p class="text-amber-100 mb-6">{description}</p>
-      <form id={formId} class="email-signup-form space-y-3" data-lead-magnet={leadMagnet}>
+      <p class="text-blue-100 mb-6">{description}</p>
+      <form id={uid} class="email-signup-form space-y-3">
         <input
           type="email"
           name="email"
           required
           placeholder="Enter your email address"
-          class="w-full px-4 py-3 border border-amber-400 rounded-lg focus:ring-2 focus:ring-accent focus:border-transparent outline-none text-gray-900 placeholder-gray-500"
+          class="w-full px-4 py-3 border border-blue-400 rounded-lg focus:ring-2 focus:ring-accent focus:border-transparent outline-none text-gray-900 placeholder-gray-500"
         />
         <button
           type="submit"
@@ -78,45 +79,61 @@ const formId = `email-signup-${variant}-${Math.random().toString(36).slice(2, 8)
           {ctaText}
         </button>
       </form>
-      <p class="text-xs text-amber-200 mt-4">
-        No spam. Unsubscribe anytime. View our <a href="/privacy-policy" class="text-primary hover:text-primary-light underline">Privacy Policy</a>.
+      <p class="text-xs text-blue-200 mt-4">
+        No spam. Unsubscribe anytime. View our <a href="/privacy-policy" class="text-accent hover:text-accent-light underline">Privacy Policy</a>.
       </p>
     </div>
   </div>
 )}
 
-<script is:inline>
-  document.addEventListener('submit', function (e) {
-    if (!e.target.classList.contains('email-signup-form')) return;
-    e.preventDefault();
+<script define:vars={{ uid, ckApiKey, ckFormId }}>
+  (function () {
+    var form = document.getElementById(uid);
+    if (!form) return;
+    var actualForm = form.tagName === 'FORM' ? form : form.querySelector('form');
+    if (!actualForm) return;
 
-    var form = e.target;
-    var email = form.querySelector('input[name="email"]').value;
-    var leadMagnet = form.getAttribute('data-lead-magnet') || '';
-    var btn = form.querySelector('button[type="submit"]');
-    var originalText = btn.textContent;
+    actualForm.addEventListener('submit', function (e) {
+      e.preventDefault();
+      var emailInput = actualForm.querySelector('input[name="email"]');
+      var btn = actualForm.querySelector('button[type="submit"]');
+      var email = emailInput ? emailInput.value.trim() : '';
+      if (!email) return;
 
-    btn.disabled = true;
-    btn.textContent = 'Subscribing...';
+      if (!ckFormId || !ckApiKey) {
+        console.warn('[EmailSignup] ConvertKit not configured.');
+        actualForm.innerHTML = '<p class="text-sm text-center py-4">Email capture is not yet configured. Please check back soon!</p>';
+        return;
+      }
 
-    fetch('/api/subscribe', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ email: email, source: window.location.pathname }),
-    })
-    .then(function (res) { return res.json(); })
-    .then(function (data) {
-      var msg = data.message || 'Success! Check your email for your free checklist.';
-      form.innerHTML =
-        '<div class="text-center">' +
-        '<p class="text-lg font-semibold mb-2">' + (!data.error ? 'Check your inbox!' : 'Oops!') + '</p>' +
-        '<p class="text-sm">' + msg + '</p>' +
-        '</div>';
-    })
-    .catch(function () {
-      btn.disabled = false;
-      btn.textContent = originalText;
-      alert('Sorry, there was an error. Please try again.');
+      btn.disabled = true;
+      var origText = btn.textContent;
+      btn.textContent = 'Subscribing...';
+
+      fetch('https://api.convertkit.com/v3/forms/' + ckFormId + '/subscribe', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ api_key: ckApiKey, email: email }),
+      })
+        .then(function (res) { return res.json(); })
+        .then(function (data) {
+          if (data.subscription) {
+            actualForm.innerHTML =
+              '<div class="text-center">' +
+              '<p class="text-lg font-semibold mb-2">Check your inbox!</p>' +
+              '<p class="text-sm">We sent you a confirmation email. Click the link inside to confirm.</p>' +
+              '</div>';
+          } else {
+            btn.disabled = false;
+            btn.textContent = origText;
+            alert((data.errors && data.errors[0]) || 'Something went wrong. Please try again.');
+          }
+        })
+        .catch(function () {
+          btn.disabled = false;
+          btn.textContent = origText;
+          alert('Sorry, there was an error. Please try again.');
+        });
     });
-  });
+  })();
 </script>
