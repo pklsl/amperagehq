@@ -23,7 +23,7 @@ const {
   leadMagnetLabel = 'Free Resource',
 } = Astro.props;
 
-const ckApiKey = import.meta.env.PUBLIC_CK_API_KEY || '';
+const ckApiKey = import.meta.env.PUBLIC_CK_API_KEY || 'kit_c9479f8706aba6b9e2e8a9d2ef9407d0';
 const ckTagId = SITE_TAG_IDS[siteId] || 0;
 const uid = `ec-${placementType}-${Math.random().toString(36).slice(2, 7)}`;
 ---
