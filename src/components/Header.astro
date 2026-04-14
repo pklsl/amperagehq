@@ -12,7 +12,7 @@ const navLinks = [
     <a href="/" class="text-2xl font-bold font-heading text-primary">
       AmperageHQ
     </a>
-    <ul class="hidden md:flex gap-6">
+    <ul class="hidden md:flex gap-6 items-center">
       {navLinks.map((link) => (
         <li>
           <a
@@ -23,6 +23,11 @@ const navLinks = [
           </a>
         </li>
       ))}
+      <li>
+        <a href="/get-a-quote" class="bg-primary text-white font-semibold px-4 py-2 rounded-lg hover:opacity-90 transition-opacity duration-200 text-sm">
+          Free Estimate
+        </a>
+      </li>
     </ul>
     <button
       id="mobile-menu-btn"
@@ -45,6 +50,11 @@ const navLinks = [
         </a>
       </li>
     ))}
+    <li>
+      <a href="/get-a-quote" class="block py-1 text-primary font-semibold hover:opacity-90 transition-opacity duration-200">
+        Free Estimate
+      </a>
+    </li>
   </ul>
 </header>
 
