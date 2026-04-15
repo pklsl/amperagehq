@@ -22,9 +22,20 @@ const articles = (await getCollection('articles'))
   .slice(0, 3);
 
 const featuredArticle = articles[0];
+
+const websiteSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: 'AmperageHQ',
+  url: Astro.site?.href,
+};
 ---
 
-<BaseLayout title="Home" description="AmperageHQ — Your trusted source for electrical wiring guides, NEC code tips, and safety resources for professionals and DIY electricians.">
+<BaseLayout
+  title="Home"
+  description="AmperageHQ — Your trusted source for electrical wiring guides, NEC code tips, and safety resources for professionals and DIY electricians."
+  structuredData={[websiteSchema]}
+>
   <!-- Hero: Cover image with blog description -->
   <section class="py-16 md:py-24 bg-white">
     <div class="max-w-6xl mx-auto px-4">
