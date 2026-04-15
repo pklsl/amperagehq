@@ -2,8 +2,10 @@
 title: "Smart Switch Installation: A Step-by-Step Guide"
 description: "How to install smart light switches and dimmers — covering neutral wire requirements, single-pole and 3-way configurations, and popular smart switch ecosystems."
 pubDate: 2026-04-07
+updatedDate: 2026-04-07
 author: "AmperageHQ Team"
 tags: ["smart-switch", "smart-home", "wiring", "lighting", "DIY"]
+image: "https://images.pexels.com/photos/3201763/pexels-photo-3201763.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Smart switches let you control your lights with voice commands, apps, schedules, and automations — without replacing your existing light bulbs. They install in the wall switch box and look nearly identical to standard switches. The catch is that most require a neutral wire, which older homes may not have at the switch box. This guide covers everything you need to know to install one correctly.
@@ -131,3 +133,9 @@ In the 3-way smart add-on configuration, only one traveler wire is typically use
 - **CFL bulbs**: Most smart dimmers are incompatible with CFL bulbs — switch to LEDs for best results
 
 Smart switches are a meaningful home upgrade — they pay for themselves in energy savings (lights never left on accidentally), convenience (automations tied to sunrise/sunset or occupancy), and security (vacation lighting schedules). The key is matching the right product to what your wiring can support.
+
+## See Also
+
+- [Wiring a 3-way switch](/articles/wiring-a-3-way-switch) — before installing smart 3-way switches, understand how the existing traveler wires are configured; this guide explains every common scenario
+- [Ceiling fan wiring](/articles/ceiling-fan-wiring) — smart fan controls are a related project; learn how ceiling fan wiring differs from standard switch wiring before adding smart control
+- [NEC code basics](/articles/nec-code-basics) — the 2011 NEC neutral requirement in switch boxes (Article 404.2(C)) is exactly why smart switch installation is possible in modern homes; understand the code behind it

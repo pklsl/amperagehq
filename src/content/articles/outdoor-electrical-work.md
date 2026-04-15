@@ -2,8 +2,10 @@
 title: "Outdoor Electrical Work: Wiring, Codes, and Best Practices"
 description: "Everything you need to know about outdoor electrical installations — weatherproof outlets, outdoor lighting, underground wiring, and NEC requirements for exterior work."
 pubDate: 2026-04-07
+updatedDate: 2026-04-07
 author: "AmperageHQ Team"
 tags: ["outdoor", "wiring", "weatherproof", "underground", "residential"]
+image: "https://images.pexels.com/photos/220147/pexels-photo-220147.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Outdoor electrical work introduces unique hazards that indoor wiring doesn't face: moisture, UV exposure, physical damage, and temperature extremes. Done right, outdoor wiring is reliable and safe for decades. Done wrong, it's a fire and electrocution waiting to happen. This guide covers materials, methods, and code requirements for common exterior electrical projects.
@@ -120,3 +122,9 @@ Pool and spa wiring is an area where hiring a licensed electrician and getting a
 - **Not accounting for expansion in PVC**: PVC conduit expands and contracts significantly with temperature — use expansion couplings on long runs
 
 Outdoor electrical work done to code is durable and safe. The extra materials cost for proper conduit, weatherproof devices, and underground-rated cable is minimal compared to the cost of failure or injury.
+
+## See Also
+
+- [GFCI and AFCI outlet installation](/articles/gfci-and-afci-outlet-installation) — every outdoor receptacle requires GFCI protection; this guide covers exactly how to install it correctly
+- [Subpanel installation basics](/articles/subpanel-installation-basics) — running power to a detached garage or shed requires a subpanel with proper grounding; learn the grounding rules specific to separate structures
+- [Wire gauge and ampacity guide](/articles/wire-gauge-and-ampacity-guide) — outdoor and underground wiring uses different insulation types; understand which conductors are rated for wet and direct-burial applications

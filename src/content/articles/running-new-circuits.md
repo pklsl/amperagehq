@@ -2,8 +2,10 @@
 title: "How to Run New Electrical Circuits"
 description: "A practical guide to planning, routing, and installing new branch circuits — from sizing the circuit and pulling wire to landing it in the panel safely."
 pubDate: 2026-04-07
+updatedDate: 2026-04-07
 author: "AmperageHQ Team"
 tags: ["circuits", "wiring", "panel", "installation", "residential"]
+image: "https://images.pexels.com/photos/1474511/pexels-photo-1474511.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Adding a new circuit is one of the most impactful electrical improvements you can make to a home or workshop. Whether you need a dedicated outlet for a workshop tool, a new kitchen circuit, or an outlet in a previously unwired area, the process follows the same logical sequence: plan the circuit, get the permit, run the wire, and land it in the panel.
@@ -131,3 +133,9 @@ Before patching walls or scheduling inspection:
 - Verify no voltage at any point that should be de-energized
 
 A new circuit done right adds lasting value and capability. Done wrong, it's a hidden hazard — so work methodically and get it inspected.
+
+## See Also
+
+- [Wire gauge and ampacity guide](/articles/wire-gauge-and-ampacity-guide) — select the right conductor size for every circuit type before you pull a single foot of wire
+- [GFCI and AFCI outlet installation](/articles/gfci-and-afci-outlet-installation) — most new circuits in living spaces require AFCI protection and many require GFCI; this guide covers both installation methods
+- [Panel upgrades and load calculations](/articles/panel-upgrades-and-load-calculations) — if your panel is full or at capacity, check this guide before starting any new circuit work

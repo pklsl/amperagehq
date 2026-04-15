@@ -2,8 +2,10 @@
 title: "GFCI and AFCI Outlet Installation Guide"
 description: "Understand the difference between GFCI and AFCI protection, where each is required by the NEC, and how to install both types correctly and safely."
 pubDate: 2026-04-07
+updatedDate: 2026-04-07
 author: "AmperageHQ Team"
 tags: ["gfci", "afci", "safety", "outlets", "NEC"]
+image: "https://images.pexels.com/photos/5691589/pexels-photo-5691589.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Ground fault circuit interrupters (GFCIs) and arc fault circuit interrupters (AFCIs) are two of the most important safety technologies in modern residential wiring. They protect against different hazards, are required in different locations, and install differently. This guide covers both — so you know which protection you need, where, and how to put it in.
@@ -141,3 +143,9 @@ Some locations require both GFCI and AFCI protection — for example, a kitchen 
 - Wiring running near metal that's causing intermittent contact
 
 Both GFCI and AFCI protection save lives. If your home has older wiring or no GFCI protection in wet areas, upgrading is one of the highest-value electrical improvements you can make.
+
+## See Also
+
+- [Circuit breaker types and replacement](/articles/circuit-breaker-types-and-replacement) — AFCI and GFCI breakers are a common breaker replacement scenario; this guide covers the full replacement process
+- [NEC code basics](/articles/nec-code-basics) — Articles 210.8 and 210.12 define exactly where GFCI and AFCI protection is required under current code
+- [How to wire a standard outlet](/articles/how-to-wire-a-standard-outlet) — the foundational outlet wiring skills that apply when installing GFCI receptacles and identifying LINE vs. LOAD wires

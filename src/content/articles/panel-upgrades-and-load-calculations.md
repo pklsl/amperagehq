@@ -2,8 +2,10 @@
 title: "Panel Upgrades and Load Calculations"
 description: "Learn when your electrical panel needs upgrading, how to calculate your home's total load, and what to expect during a panel replacement project."
 pubDate: 2026-04-07
+updatedDate: 2026-04-07
 author: "AmperageHQ Team"
 tags: ["panel", "load-calculation", "upgrades", "residential", "service"]
+image: "https://images.pexels.com/photos/1454360/pexels-photo-1454360.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Your electrical panel is the nerve center of your home's power system. When it can't keep up with modern electrical demands — or when it's simply aging out — a panel upgrade becomes a safety and capacity necessity. This guide covers how to assess your current panel, calculate your load, and understand what a proper upgrade involves.
@@ -116,3 +118,9 @@ Once the new panel is inspected and service restored:
 - Verify that all ground fault and arc fault protection requirements are met for newly landed circuits
 
 A properly sized, well-installed panel will serve your home for 30–40 years. Invest in the right capacity now — it's far cheaper than another upgrade in five years.
+
+## See Also
+
+- [NEC code basics](/articles/nec-code-basics) — NEC Article 220 defines the load calculation methods used in this guide; understanding the code structure helps you apply them correctly
+- [Subpanel installation basics](/articles/subpanel-installation-basics) — if a full panel upgrade isn't needed but you need more circuit capacity in a specific area, a subpanel may be the right solution
+- [Home EV charger installation](/articles/home-ev-charger-installation) — EV chargers are one of the primary reasons homes need panel upgrades; see how to assess capacity and size the circuit correctly

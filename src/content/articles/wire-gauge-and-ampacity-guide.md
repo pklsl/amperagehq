@@ -2,8 +2,10 @@
 title: "Wire Gauge and Ampacity: A Complete Reference Guide"
 description: "Understand AWG wire sizing, copper vs. aluminum conductors, ampacity tables, and how to select the right wire gauge for any residential or light commercial circuit."
 pubDate: 2026-04-07
+updatedDate: 2026-04-07
 author: "AmperageHQ Team"
 tags: ["wire-gauge", "ampacity", "AWG", "conductors", "wiring"]
+image: "https://images.pexels.com/photos/163100/circuit-circuit-board-resistor-chip-163100.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Selecting the correct wire gauge is fundamental to safe electrical work. Undersized wire overheats, melts insulation, and causes fires. Oversized wire wastes money. This guide covers the American Wire Gauge (AWG) system, ampacity tables for common installation methods, and the practical rules electricians use to size conductors correctly.
@@ -159,3 +161,9 @@ For most conduit installations, **THHN/THWN-2** is the standard choice — it's 
 | 200A service (Al) | 4/0 AWG | 200A |
 
 Use this table as a starting point, but always verify against NEC tables and account for derating, voltage drop, and local amendments before pulling wire on any significant installation.
+
+## See Also
+
+- [NEC code basics](/articles/nec-code-basics) — Article 310 and Table 310.12 are the NEC foundation for ampacity; this overview explains how the code is structured and where to find the rules
+- [Running new circuits](/articles/running-new-circuits) — apply wire sizing knowledge in practice: this guide walks through planning, sizing, and installing a new branch circuit from start to finish
+- [Home EV charger installation](/articles/home-ev-charger-installation) — EV chargers are a common high-amperage application where wire gauge selection and the 125% continuous load rule matter most

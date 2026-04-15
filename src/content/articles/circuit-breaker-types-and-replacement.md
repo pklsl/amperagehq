@@ -2,8 +2,10 @@
 title: "Circuit Breaker Types and Replacement"
 description: "A complete guide to circuit breaker types — standard, GFCI, AFCI, dual-function, tandem — and how to safely replace a faulty breaker in your panel."
 pubDate: 2026-04-07
+updatedDate: 2026-04-07
 author: "AmperageHQ Team"
 tags: ["circuit-breakers", "panel", "replacement", "safety", "residential"]
+image: "https://images.pexels.com/photos/2988232/pexels-photo-2988232.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Circuit breakers are your electrical system's first line of defense — they interrupt current flow when a circuit overloads or develops a fault. Understanding breaker types, how to identify a bad breaker, and how to replace one correctly is essential knowledge for any electrician or serious DIYer.
@@ -140,3 +142,9 @@ Circuit breaker replacement is within the skill range of capable homeowners and 
 - You can't identify which breaker controls which circuit safely
 
 A properly functioning breaker panel is non-negotiable for electrical safety. When in doubt about a breaker's condition, replace it — they're inexpensive insurance against fires and equipment damage.
+
+## See Also
+
+- [GFCI and AFCI outlet installation](/articles/gfci-and-afci-outlet-installation) — a deeper look at how AFCI and GFCI breakers work and where the NEC requires each type
+- [Panel upgrades and load calculations](/articles/panel-upgrades-and-load-calculations) — if your panel itself is the problem, this guide covers when to upgrade and what the process involves
+- [NEC code basics](/articles/nec-code-basics) — understand the code requirements that govern breaker sizing, overcurrent protection, and AFCI/GFCI placement

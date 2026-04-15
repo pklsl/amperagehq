@@ -2,8 +2,10 @@
 title: "Lighting Circuit Troubleshooting Guide"
 description: "Diagnose and fix common lighting problems — from lights that won't turn on and flickering bulbs to tripping breakers and dead switches — with a systematic approach."
 pubDate: 2026-04-07
+updatedDate: 2026-04-07
 author: "AmperageHQ Team"
 tags: ["lighting", "troubleshooting", "circuits", "DIY", "electrical"]
+image: "https://images.pexels.com/photos/1249611/pexels-photo-1249611.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 A lighting problem can range from a burned-out bulb to a failing circuit breaker or loose connection in the wall. Systematic troubleshooting finds the cause quickly — and helps you avoid unnecessary parts replacement. This guide walks through the most common lighting circuit problems and how to diagnose them.
@@ -138,3 +140,9 @@ Call a licensed electrician if:
 - Your home has knob-and-tube or aluminum branch circuit wiring
 
 Systematic troubleshooting resolves most lighting problems without an electrician. But when the problem involves the panel, service entrance, or unknown wiring faults — professionals with proper PPE and testing equipment are the right call.
+
+## See Also
+
+- [Wiring a 3-way switch](/articles/wiring-a-3-way-switch) — if one location of a two-switch circuit isn't working, a miswired 3-way switch is a common culprit; this guide explains how the circuit should be configured
+- [GFCI and AFCI outlet installation](/articles/gfci-and-afci-outlet-installation) — AFCI breaker nuisance trips and tripped upstream GFCIs are two of the most common causes of partial lighting circuit failures
+- [Circuit breaker types and replacement](/articles/circuit-breaker-types-and-replacement) — when a breaker trips repeatedly or won't reset, it may need replacement; learn how to diagnose and swap it safely

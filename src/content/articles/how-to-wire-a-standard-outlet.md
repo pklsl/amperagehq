@@ -2,6 +2,7 @@
 title: "How to Wire a Standard 15-Amp Outlet"
 description: "A step-by-step guide to safely replacing or installing a standard 15-amp duplex outlet — including how to identify wires, make correct connections, and test your work."
 pubDate: 2026-04-07
+updatedDate: 2026-04-07
 author: "AmperageHQ Team"
 tags: ["outlets", "wiring", "DIY", "safety", "residential"]
 image: "https://images.pexels.com/photos/5691590/pexels-photo-5691590.jpeg?auto=compress&cs=tinysrgb&w=800"
@@ -104,3 +105,9 @@ Do not install a three-prong outlet on an ungrounded circuit without one of the 
 ---
 
 Outlet replacement is a foundational skill. Master the process here and you'll have the confidence to handle more complex receptacle work — GFCI installation, 20-amp circuits, and tamper-resistant outlets — with the same systematic approach.
+
+## See Also
+
+- [GFCI and AFCI outlet installation](/articles/gfci-and-afci-outlet-installation) — the logical next step after mastering standard outlets; covers LINE vs. LOAD wiring and where protection is required by code
+- [Running new circuits](/articles/running-new-circuits) — when an outlet doesn't exist yet and you need to install one from scratch, this guide covers the full process
+- [Wire gauge and ampacity guide](/articles/wire-gauge-and-ampacity-guide) — understand why 15A circuits use 14 AWG and 20A circuits use 12 AWG, and how to identify what your circuit requires

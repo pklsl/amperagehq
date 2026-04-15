@@ -2,8 +2,10 @@
 title: "Wiring a 3-Way Switch: A Complete Guide"
 description: "Learn how 3-way switches work, understand the wiring configurations, and follow a step-by-step guide to installing or replacing 3-way switches correctly."
 pubDate: 2026-04-07
+updatedDate: 2026-04-07
 author: "AmperageHQ Team"
 tags: ["switches", "wiring", "3-way-switch", "lighting", "DIY"]
+image: "https://images.pexels.com/photos/5691622/pexels-photo-5691622.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 A 3-way switch setup lets you control a single light fixture from two different locations — at the top and bottom of a staircase, at both ends of a hallway, or from two entrances to a room. The wiring is more complex than a standard single-pole switch, but once you understand the underlying logic, installation is straightforward.
@@ -114,3 +116,9 @@ Restore power. The light should turn on and off from each switch independently. 
 Most smart switches require a neutral wire at the switch box — which older 3-way configurations often lack. Before buying a smart switch system, verify whether your switch boxes have neutrals. Some smart switch systems (Lutron Caseta, for example) are designed to work without a neutral wire. Always read the installation requirements for your specific smart switch model.
 
 Once you've mastered the 3-way wiring, adding a third control point (4-way switch) is a natural next step — 4-way switches connect between any pair of 3-way switches and simply cross or pass through the travelers.
+
+## See Also
+
+- [Smart switch installation](/articles/smart-switch-installation) — ready to add smart control to a 3-way circuit? This guide covers the neutral wire requirements and the brand-specific approaches for retrofit 3-way smart switches
+- [Lighting circuit troubleshooting](/articles/lighting-circuit-troubleshooting) — if your 3-way circuit isn't working correctly after installation, use this systematic diagnostic guide to find the fault
+- [How to wire a standard outlet](/articles/how-to-wire-a-standard-outlet) — if you're new to wiring, start with this foundational guide before tackling the more complex 3-way circuit

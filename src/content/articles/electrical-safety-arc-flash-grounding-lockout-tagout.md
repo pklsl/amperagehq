@@ -2,8 +2,10 @@
 title: "Electrical Safety: Arc Flash, Grounding, and Lockout/Tagout"
 description: "Essential electrical safety practices for professionals and advanced DIYers — covering arc flash hazards, grounding systems, and lockout/tagout procedures."
 pubDate: 2026-04-07
+updatedDate: 2026-04-07
 author: "AmperageHQ Team"
 tags: ["safety", "arc-flash", "grounding", "lockout-tagout", "professional"]
+image: "https://images.pexels.com/photos/257736/pexels-photo-257736.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Electricity kills quickly and without warning. Most electrical injuries and fatalities are preventable with proper hazard awareness, grounding practices, and energy control procedures. Whether you're a licensed electrician working commercial equipment or a homeowner tackling a panel job, understanding these three pillars of electrical safety can make the difference between finishing a job and not going home.
@@ -126,3 +128,9 @@ At minimum for residential electrical work:
 - If multiple people are working in a home, communicate clearly about which circuits are off-limits
 
 These habits, developed early, become automatic — and they are what separate the electricians who work safely their entire careers from the ones who get hurt.
+
+## See Also
+
+- [NEC code basics](/articles/nec-code-basics) — the code framework that underpins grounding requirements, working clearances, and overcurrent protection
+- [Panel upgrades and load calculations](/articles/panel-upgrades-and-load-calculations) — panel work is one of the highest-risk residential tasks; understand what's involved before opening a service panel
+- [Wire gauge and ampacity guide](/articles/wire-gauge-and-ampacity-guide) — properly sized conductors are a key element of electrical safety; undersized wire overheats and creates fire hazards

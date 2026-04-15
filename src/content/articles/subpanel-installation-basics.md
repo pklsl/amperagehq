@@ -2,8 +2,10 @@
 title: "Subpanel Installation Basics"
 description: "Learn how to plan, size, and install a subpanel — including feeder sizing, grounding requirements for detached structures, and the critical difference between neutral and ground in a subpanel."
 pubDate: 2026-04-07
+updatedDate: 2026-04-07
 author: "AmperageHQ Team"
 tags: ["subpanel", "panel", "feeder", "installation", "grounding"]
+image: "https://images.pexels.com/photos/2569842/pexels-photo-2569842.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 A subpanel extends your electrical system from the main panel to a remote location — a workshop, detached garage, addition, or any area where running individual circuits from the main panel would be impractical. Subpanel installation involves feeder sizing, a critical grounding decision (depending on whether it's in the same structure or a separate building), and landing multiple circuits safely.
@@ -142,3 +144,9 @@ Subpanel installation requires a permit in virtually every jurisdiction. The ins
 - Proper grounding electrode conductor sizing and connection
 
 A properly installed subpanel makes future electrical work in a remote location straightforward — every new circuit originates right at the subpanel rather than requiring a long home-run back to the main panel.
+
+## See Also
+
+- [Panel upgrades and load calculations](/articles/panel-upgrades-and-load-calculations) — verify your main panel has sufficient amperage headroom before sizing and installing a subpanel
+- [Outdoor electrical work](/articles/outdoor-electrical-work) — running an underground feeder to a detached garage involves the same conduit and burial depth rules covered in the outdoor wiring guide
+- [Wire gauge and ampacity guide](/articles/wire-gauge-and-ampacity-guide) — feeder conductor sizing is one of the most important decisions in subpanel installation; this guide covers aluminum vs. copper and the correct gauge for every amperage rating

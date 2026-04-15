@@ -2,8 +2,10 @@
 title: "NEC Code Basics: What Electricians Need to Know"
 description: "A practical introduction to the National Electrical Code — how it's structured, which articles matter most for residential work, and how it's adopted and enforced."
 pubDate: 2026-04-07
+updatedDate: 2026-04-07
 author: "AmperageHQ Team"
 tags: ["NEC", "code", "residential", "compliance", "electrical"]
+image: "https://images.pexels.com/photos/442151/pexels-photo-442151.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 The National Electrical Code (NEC) is the foundation of safe electrical installation in the United States. Whether you're a licensed electrician, an apprentice, or a homeowner tackling your own wiring, understanding how the NEC is structured and what it requires will help you work legally, safely, and with confidence.
@@ -136,3 +138,9 @@ The NEC is written in mandatory language ("shall") and is dense with cross-refer
 - **Get the NFPA Handbook**: The Handbook version includes commentary and examples alongside each section
 
 Knowing the NEC doesn't just keep your work legal — it makes you a better electrician. The rules exist because real fires, injuries, and deaths revealed hazards in earlier installation practices. Understanding the "why" behind each requirement makes them easier to apply correctly.
+
+## See Also
+
+- [Wire gauge and ampacity guide](/articles/wire-gauge-and-ampacity-guide) — a practical reference for NEC Table 310.12 ampacity values and the sizing rules you'll apply on every circuit
+- [GFCI and AFCI outlet installation](/articles/gfci-and-afci-outlet-installation) — Articles 210.8 and 210.12 in practice: where to install each protection type and how to do it correctly
+- [Running new circuits](/articles/running-new-circuits) — a project walkthrough that applies NEC requirements for circuit sizing, protection types, and panel landing

@@ -2,8 +2,10 @@
 title: "Ceiling Fan Wiring: Installation and Troubleshooting"
 description: "How to wire a ceiling fan — from replacing an existing light fixture to wiring a fan with separate light and fan controls using a 3-wire cable."
 pubDate: 2026-04-07
+updatedDate: 2026-04-07
 author: "AmperageHQ Team"
 tags: ["ceiling-fan", "wiring", "lighting", "DIY", "switches"]
+image: "https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Installing a ceiling fan is one of the most popular DIY electrical projects — and one that's frequently done wrong. The tricky part isn't the fan itself, it's understanding what you have in the ceiling box and what options that gives you for controlling the fan and light separately. This guide covers every common wiring scenario.
@@ -130,3 +132,9 @@ Many popular smart fan systems (Lutron Caseta Fan Speed Control, Leviton Decora 
 - Wiring fault — inspect connections
 
 A well-wired ceiling fan adds both comfort and energy efficiency to any room. The key is matching your wire configuration to the right control strategy from the start.
+
+## See Also
+
+- [Wiring a 3-way switch](/articles/wiring-a-3-way-switch) — if you want to control your fan from two locations, understanding 3-way wiring is the prerequisite
+- [Smart switch installation](/articles/smart-switch-installation) — smart fan controls can replace wall switches and add scheduling and voice control; this guide covers neutral wire requirements and ecosystem choices
+- [How to wire a standard outlet](/articles/how-to-wire-a-standard-outlet) — build your wiring fundamentals with this guide to basic receptacle work before tackling fan installations

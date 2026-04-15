@@ -2,8 +2,10 @@
 title: "Home EV Charger Installation: What You Need to Know"
 description: "A complete guide to installing a Level 2 EV charger at home — circuit sizing, outlet vs. hardwired options, panel considerations, and permit requirements."
 pubDate: 2026-04-07
+updatedDate: 2026-04-07
 author: "AmperageHQ Team"
 tags: ["ev-charger", "level-2", "residential", "installation", "240V"]
+image: "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Electric vehicles are becoming mainstream, and home charging is by far the most convenient way to keep your EV charged. Most EV owners charge primarily at home overnight — if your garage or driveway has access to your electrical panel, a home Level 2 charger is a worthwhile investment. This guide covers everything from charger types to circuit sizing to the actual installation process.
@@ -116,3 +118,9 @@ If you're installing conduit now, consider running a larger conduit than your cu
 Similarly, if you have two EVs (or plan to), installing a second circuit roughed-in with conduit is far cheaper to do during the initial installation than returning later.
 
 Home EV charging is one of the most practical electrical upgrades available — it pays for itself quickly in convenience, reduced public charging costs, and lower per-mile fuel costs for EV drivers.
+
+## See Also
+
+- [Panel upgrades and load calculations](/articles/panel-upgrades-and-load-calculations) — before adding a 60A EV charger circuit, verify your panel has both the physical space and the amperage headroom
+- [Wire gauge and ampacity guide](/articles/wire-gauge-and-ampacity-guide) — EV chargers are continuous loads; this guide explains the 125% sizing rule and the correct conductor for every charger amperage
+- [Running new circuits](/articles/running-new-circuits) — the EV charger circuit follows the same process as any new circuit; this guide covers routing wire, pulling permits, and landing at the panel

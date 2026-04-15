@@ -2,8 +2,10 @@
 title: "How to Read an Electrical Diagram"
 description: "Learn to interpret electrical diagrams — schematic symbols, wiring diagrams, one-line diagrams, and panel schedules — so you can understand any electrical drawing on the job."
 pubDate: 2026-04-07
+updatedDate: 2026-04-07
 author: "AmperageHQ Team"
 tags: ["electrical-diagrams", "schematics", "wiring-diagrams", "blueprints", "professional"]
+image: "https://images.pexels.com/photos/3862379/pexels-photo-3862379.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Electrical diagrams are the language electricians use to plan, install, and troubleshoot systems. Whether you're following a blueprint on a job site, reading a wiring diagram for an appliance repair, or interpreting a manufacturer's schematic, knowing how to read these drawings is a fundamental skill. This guide breaks down the four most common diagram types and the symbols you'll encounter in each.
@@ -160,3 +162,9 @@ Odd numbers are typically A-phase, even numbers B-phase — with double-pole bre
 - **Look for dashed lines**: In many diagrams, dashed lines represent wiring external to the device or optional connections
 
 Electrical diagrams are not intimidating once you know the symbols and conventions. Start with the simplest diagrams — a single switch circuit — and work up to multi-component schematics. Every hour you spend reading diagrams makes the next one faster to interpret.
+
+## See Also
+
+- [Wiring a 3-way switch](/articles/wiring-a-3-way-switch) — putting diagram-reading into practice: the 3-way switch circuit is one of the most commonly diagrammed residential wiring scenarios
+- [Subpanel installation basics](/articles/subpanel-installation-basics) — subpanel work often involves one-line diagrams and panel schedules; this guide will make more sense after understanding how to read them
+- [NEC code basics](/articles/nec-code-basics) — the NEC references diagrams and panel schedules throughout; understanding both together makes code compliance much easier to apply
