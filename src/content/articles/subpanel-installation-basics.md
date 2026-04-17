@@ -3,7 +3,7 @@ title: "Subpanel Installation Basics"
 description: "Learn how to plan, size, and install a subpanel — including feeder sizing, grounding requirements for detached structures, and the critical difference between neutral and ground in a subpanel."
 pubDate: 2026-04-07
 updatedDate: 2026-04-07
-author: "AmperageHQ Team"
+author: "Ray Castellano"
 tags: ["subpanel", "panel", "feeder", "installation", "grounding"]
 image: "https://images.pexels.com/photos/2569842/pexels-photo-2569842.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---

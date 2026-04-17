@@ -3,7 +3,7 @@ title: "Ceiling Fan Wiring: Installation and Troubleshooting"
 description: "How to wire a ceiling fan — from replacing an existing light fixture to wiring a fan with separate light and fan controls using a 3-wire cable."
 pubDate: 2026-04-07
 updatedDate: 2026-04-07
-author: "AmperageHQ Team"
+author: "Ray Castellano"
 tags: ["ceiling-fan", "wiring", "lighting", "DIY", "switches"]
 image: "https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---

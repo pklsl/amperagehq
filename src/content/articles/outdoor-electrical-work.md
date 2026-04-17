@@ -3,7 +3,7 @@ title: "Outdoor Electrical Work: Wiring, Codes, and Best Practices"
 description: "Everything you need to know about outdoor electrical installations — weatherproof outlets, outdoor lighting, underground wiring, and NEC requirements for exterior work."
 pubDate: 2026-04-07
 updatedDate: 2026-04-07
-author: "AmperageHQ Team"
+author: "Ray Castellano"
 tags: ["outdoor", "wiring", "weatherproof", "underground", "residential"]
 image: "https://images.pexels.com/photos/220147/pexels-photo-220147.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---

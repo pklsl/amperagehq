@@ -3,7 +3,7 @@ title: "Circuit Breaker Types and Replacement"
 description: "A complete guide to circuit breaker types — standard, GFCI, AFCI, dual-function, tandem — and how to safely replace a faulty breaker in your panel."
 pubDate: 2026-04-07
 updatedDate: 2026-04-07
-author: "AmperageHQ Team"
+author: "Ray Castellano"
 tags: ["circuit-breakers", "panel", "replacement", "safety", "residential"]
 image: "https://images.pexels.com/photos/2988232/pexels-photo-2988232.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---

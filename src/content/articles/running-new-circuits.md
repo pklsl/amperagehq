@@ -3,7 +3,7 @@ title: "How to Run New Electrical Circuits"
 description: "A practical guide to planning, routing, and installing new branch circuits — from sizing the circuit and pulling wire to landing it in the panel safely."
 pubDate: 2026-04-07
 updatedDate: 2026-04-07
-author: "AmperageHQ Team"
+author: "Ray Castellano"
 tags: ["circuits", "wiring", "panel", "installation", "residential"]
 image: "https://images.pexels.com/photos/1474511/pexels-photo-1474511.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---

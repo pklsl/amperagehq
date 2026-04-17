@@ -3,7 +3,7 @@ title: "Home EV Charger Installation: What You Need to Know"
 description: "A complete guide to installing a Level 2 EV charger at home — circuit sizing, outlet vs. hardwired options, panel considerations, and permit requirements."
 pubDate: 2026-04-07
 updatedDate: 2026-04-07
-author: "AmperageHQ Team"
+author: "Ray Castellano"
 tags: ["ev-charger", "level-2", "residential", "installation", "240V"]
 image: "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---

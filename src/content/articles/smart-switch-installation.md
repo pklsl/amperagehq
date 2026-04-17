@@ -3,7 +3,7 @@ title: "Smart Switch Installation: A Step-by-Step Guide"
 description: "How to install smart light switches and dimmers — covering neutral wire requirements, single-pole and 3-way configurations, and popular smart switch ecosystems."
 pubDate: 2026-04-07
 updatedDate: 2026-04-07
-author: "AmperageHQ Team"
+author: "Ray Castellano"
 tags: ["smart-switch", "smart-home", "wiring", "lighting", "DIY"]
 image: "https://images.pexels.com/photos/3201763/pexels-photo-3201763.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---

@@ -3,7 +3,7 @@ title: "NEC Code Basics: What Electricians Need to Know"
 description: "A practical introduction to the National Electrical Code — how it's structured, which articles matter most for residential work, and how it's adopted and enforced."
 pubDate: 2026-04-07
 updatedDate: 2026-04-07
-author: "AmperageHQ Team"
+author: "Ray Castellano"
 tags: ["NEC", "code", "residential", "compliance", "electrical"]
 image: "https://images.pexels.com/photos/442151/pexels-photo-442151.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---

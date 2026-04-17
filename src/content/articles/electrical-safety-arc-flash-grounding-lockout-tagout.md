@@ -3,7 +3,7 @@ title: "Electrical Safety: Arc Flash, Grounding, and Lockout/Tagout"
 description: "Essential electrical safety practices for professionals and advanced DIYers — covering arc flash hazards, grounding systems, and lockout/tagout procedures."
 pubDate: 2026-04-07
 updatedDate: 2026-04-07
-author: "AmperageHQ Team"
+author: "Ray Castellano"
 tags: ["safety", "arc-flash", "grounding", "lockout-tagout", "professional"]
 image: "https://images.pexels.com/photos/257736/pexels-photo-257736.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---

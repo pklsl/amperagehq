@@ -3,7 +3,7 @@ title: "GFCI and AFCI Outlet Installation Guide"
 description: "Understand the difference between GFCI and AFCI protection, where each is required by the NEC, and how to install both types correctly and safely."
 pubDate: 2026-04-07
 updatedDate: 2026-04-07
-author: "AmperageHQ Team"
+author: "Ray Castellano"
 tags: ["gfci", "afci", "safety", "outlets", "NEC"]
 image: "https://images.pexels.com/photos/5691589/pexels-photo-5691589.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---

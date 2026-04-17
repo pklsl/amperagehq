@@ -3,7 +3,7 @@ title: "Wiring a 3-Way Switch: A Complete Guide"
 description: "Learn how 3-way switches work, understand the wiring configurations, and follow a step-by-step guide to installing or replacing 3-way switches correctly."
 pubDate: 2026-04-07
 updatedDate: 2026-04-07
-author: "AmperageHQ Team"
+author: "Ray Castellano"
 tags: ["switches", "wiring", "3-way-switch", "lighting", "DIY"]
 image: "https://images.pexels.com/photos/5691622/pexels-photo-5691622.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---

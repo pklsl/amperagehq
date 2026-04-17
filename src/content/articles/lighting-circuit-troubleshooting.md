@@ -3,7 +3,7 @@ title: "Lighting Circuit Troubleshooting Guide"
 description: "Diagnose and fix common lighting problems — from lights that won't turn on and flickering bulbs to tripping breakers and dead switches — with a systematic approach."
 pubDate: 2026-04-07
 updatedDate: 2026-04-07
-author: "AmperageHQ Team"
+author: "Ray Castellano"
 tags: ["lighting", "troubleshooting", "circuits", "DIY", "electrical"]
 image: "https://images.pexels.com/photos/1249611/pexels-photo-1249611.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---

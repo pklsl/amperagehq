@@ -3,7 +3,7 @@ title: "How to Read an Electrical Diagram"
 description: "Learn to interpret electrical diagrams — schematic symbols, wiring diagrams, one-line diagrams, and panel schedules — so you can understand any electrical drawing on the job."
 pubDate: 2026-04-07
 updatedDate: 2026-04-07
-author: "AmperageHQ Team"
+author: "Ray Castellano"
 tags: ["electrical-diagrams", "schematics", "wiring-diagrams", "blueprints", "professional"]
 image: "https://images.pexels.com/photos/3862379/pexels-photo-3862379.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---

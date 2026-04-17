@@ -3,7 +3,7 @@ title: "Panel Upgrades and Load Calculations"
 description: "Learn when your electrical panel needs upgrading, how to calculate your home's total load, and what to expect during a panel replacement project."
 pubDate: 2026-04-07
 updatedDate: 2026-04-07
-author: "AmperageHQ Team"
+author: "Ray Castellano"
 tags: ["panel", "load-calculation", "upgrades", "residential", "service"]
 image: "https://images.pexels.com/photos/1454360/pexels-photo-1454360.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---

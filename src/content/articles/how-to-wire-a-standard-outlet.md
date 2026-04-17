@@ -3,7 +3,7 @@ title: "How to Wire a Standard 15-Amp Outlet"
 description: "A step-by-step guide to safely replacing or installing a standard 15-amp duplex outlet — including how to identify wires, make correct connections, and test your work."
 pubDate: 2026-04-07
 updatedDate: 2026-04-07
-author: "AmperageHQ Team"
+author: "Ray Castellano"
 tags: ["outlets", "wiring", "DIY", "safety", "residential"]
 image: "https://images.pexels.com/photos/5691590/pexels-photo-5691590.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---

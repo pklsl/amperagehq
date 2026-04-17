@@ -3,7 +3,7 @@ title: "Wire Gauge and Ampacity: A Complete Reference Guide"
 description: "Understand AWG wire sizing, copper vs. aluminum conductors, ampacity tables, and how to select the right wire gauge for any residential or light commercial circuit."
 pubDate: 2026-04-07
 updatedDate: 2026-04-07
-author: "AmperageHQ Team"
+author: "Ray Castellano"
 tags: ["wire-gauge", "ampacity", "AWG", "conductors", "wiring"]
 image: "https://images.pexels.com/photos/163100/circuit-circuit-board-resistor-chip-163100.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
