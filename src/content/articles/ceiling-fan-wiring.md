@@ -5,7 +5,7 @@ pubDate: 2026-04-07
 updatedDate: 2026-04-07
 author: "Ray Castellano"
 tags: ["ceiling-fan", "wiring", "lighting", "DIY", "switches"]
-image: "https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/14715847/pexels-photo-14715847.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Installing a ceiling fan is one of the most popular DIY electrical projects — and one that's frequently done wrong. The tricky part isn't the fan itself, it's understanding what you have in the ceiling box and what options that gives you for controlling the fan and light separately. This guide covers every common wiring scenario.

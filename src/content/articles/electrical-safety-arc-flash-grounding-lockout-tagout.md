@@ -5,7 +5,7 @@ pubDate: 2026-04-07
 updatedDate: 2026-04-07
 author: "Ray Castellano"
 tags: ["safety", "arc-flash", "grounding", "lockout-tagout", "professional"]
-image: "https://images.pexels.com/photos/257736/pexels-photo-257736.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/14319099/pexels-photo-14319099.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Electricity kills quickly and without warning. Most electrical injuries and fatalities are preventable with proper hazard awareness, grounding practices, and energy control procedures. Whether you're a licensed electrician working commercial equipment or a homeowner tackling a panel job, understanding these three pillars of electrical safety can make the difference between finishing a job and not going home.

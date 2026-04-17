@@ -5,7 +5,7 @@ pubDate: 2026-04-07
 updatedDate: 2026-04-07
 author: "Ray Castellano"
 tags: ["wire-gauge", "ampacity", "AWG", "conductors", "wiring"]
-image: "https://images.pexels.com/photos/163100/circuit-circuit-board-resistor-chip-163100.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/10185562/pexels-photo-10185562.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Selecting the correct wire gauge is fundamental to safe electrical work. Undersized wire overheats, melts insulation, and causes fires. Oversized wire wastes money. This guide covers the American Wire Gauge (AWG) system, ampacity tables for common installation methods, and the practical rules electricians use to size conductors correctly.

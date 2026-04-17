@@ -5,7 +5,7 @@ pubDate: 2026-04-07
 updatedDate: 2026-04-07
 author: "Ray Castellano"
 tags: ["switches", "wiring", "3-way-switch", "lighting", "DIY"]
-image: "https://images.pexels.com/photos/5691622/pexels-photo-5691622.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/7790011/pexels-photo-7790011.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 A 3-way switch setup lets you control a single light fixture from two different locations — at the top and bottom of a staircase, at both ends of a hallway, or from two entrances to a room. The wiring is more complex than a standard single-pole switch, but once you understand the underlying logic, installation is straightforward.

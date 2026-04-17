@@ -5,7 +5,7 @@ pubDate: 2026-04-07
 updatedDate: 2026-04-07
 author: "Ray Castellano"
 tags: ["ev-charger", "level-2", "residential", "installation", "240V"]
-image: "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/9800002/pexels-photo-9800002.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Electric vehicles are becoming mainstream, and home charging is by far the most convenient way to keep your EV charged. Most EV owners charge primarily at home overnight — if your garage or driveway has access to your electrical panel, a home Level 2 charger is a worthwhile investment. This guide covers everything from charger types to circuit sizing to the actual installation process.

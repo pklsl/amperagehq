@@ -5,7 +5,7 @@ pubDate: 2026-04-07
 updatedDate: 2026-04-07
 author: "Ray Castellano"
 tags: ["circuits", "wiring", "panel", "installation", "residential"]
-image: "https://images.pexels.com/photos/1474511/pexels-photo-1474511.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/3616742/pexels-photo-3616742.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Adding a new circuit is one of the most impactful electrical improvements you can make to a home or workshop. Whether you need a dedicated outlet for a workshop tool, a new kitchen circuit, or an outlet in a previously unwired area, the process follows the same logical sequence: plan the circuit, get the permit, run the wire, and land it in the panel.

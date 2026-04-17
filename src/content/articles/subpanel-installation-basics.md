@@ -5,7 +5,7 @@ pubDate: 2026-04-07
 updatedDate: 2026-04-07
 author: "Ray Castellano"
 tags: ["subpanel", "panel", "feeder", "installation", "grounding"]
-image: "https://images.pexels.com/photos/2569842/pexels-photo-2569842.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/3615735/pexels-photo-3615735.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 A subpanel extends your electrical system from the main panel to a remote location — a workshop, detached garage, addition, or any area where running individual circuits from the main panel would be impractical. Subpanel installation involves feeder sizing, a critical grounding decision (depending on whether it's in the same structure or a separate building), and landing multiple circuits safely.

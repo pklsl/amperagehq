@@ -5,7 +5,7 @@ pubDate: 2026-04-07
 updatedDate: 2026-04-07
 author: "Ray Castellano"
 tags: ["electrical-diagrams", "schematics", "wiring-diagrams", "blueprints", "professional"]
-image: "https://images.pexels.com/photos/3862379/pexels-photo-3862379.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/8471851/pexels-photo-8471851.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Electrical diagrams are the language electricians use to plan, install, and troubleshoot systems. Whether you're following a blueprint on a job site, reading a wiring diagram for an appliance repair, or interpreting a manufacturer's schematic, knowing how to read these drawings is a fundamental skill. This guide breaks down the four most common diagram types and the symbols you'll encounter in each.

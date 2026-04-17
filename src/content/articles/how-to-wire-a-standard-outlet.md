@@ -5,7 +5,7 @@ pubDate: 2026-04-07
 updatedDate: 2026-04-07
 author: "Ray Castellano"
 tags: ["outlets", "wiring", "DIY", "safety", "residential"]
-image: "https://images.pexels.com/photos/5691590/pexels-photo-5691590.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/7937307/pexels-photo-7937307.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Replacing a worn outlet or installing a new one is one of the most common electrical tasks homeowners and apprentice electricians encounter. Done correctly, it takes 15–30 minutes. Done incorrectly, it creates a fire or shock hazard. This guide walks you through the entire process safely.

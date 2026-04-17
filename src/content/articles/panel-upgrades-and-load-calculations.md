@@ -5,7 +5,7 @@ pubDate: 2026-04-07
 updatedDate: 2026-04-07
 author: "Ray Castellano"
 tags: ["panel", "load-calculation", "upgrades", "residential", "service"]
-image: "https://images.pexels.com/photos/1454360/pexels-photo-1454360.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/10871737/pexels-photo-10871737.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Your electrical panel is the nerve center of your home's power system. When it can't keep up with modern electrical demands — or when it's simply aging out — a panel upgrade becomes a safety and capacity necessity. This guide covers how to assess your current panel, calculate your load, and understand what a proper upgrade involves.

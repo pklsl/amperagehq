@@ -5,7 +5,7 @@ pubDate: 2026-04-07
 updatedDate: 2026-04-07
 author: "Ray Castellano"
 tags: ["outdoor", "wiring", "weatherproof", "underground", "residential"]
-image: "https://images.pexels.com/photos/220147/pexels-photo-220147.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/11404176/pexels-photo-11404176.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Outdoor electrical work introduces unique hazards that indoor wiring doesn't face: moisture, UV exposure, physical damage, and temperature extremes. Done right, outdoor wiring is reliable and safe for decades. Done wrong, it's a fire and electrocution waiting to happen. This guide covers materials, methods, and code requirements for common exterior electrical projects.

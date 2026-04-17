@@ -5,7 +5,7 @@ pubDate: 2026-04-07
 updatedDate: 2026-04-07
 author: "Ray Castellano"
 tags: ["NEC", "code", "residential", "compliance", "electrical"]
-image: "https://images.pexels.com/photos/442151/pexels-photo-442151.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/28950842/pexels-photo-28950842.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 The National Electrical Code (NEC) is the foundation of safe electrical installation in the United States. Whether you're a licensed electrician, an apprentice, or a homeowner tackling your own wiring, understanding how the NEC is structured and what it requires will help you work legally, safely, and with confidence.

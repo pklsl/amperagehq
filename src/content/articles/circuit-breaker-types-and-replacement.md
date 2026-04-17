@@ -5,7 +5,7 @@ pubDate: 2026-04-07
 updatedDate: 2026-04-07
 author: "Ray Castellano"
 tags: ["circuit-breakers", "panel", "replacement", "safety", "residential"]
-image: "https://images.pexels.com/photos/2988232/pexels-photo-2988232.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/5767595/pexels-photo-5767595.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Circuit breakers are your electrical system's first line of defense — they interrupt current flow when a circuit overloads or develops a fault. Understanding breaker types, how to identify a bad breaker, and how to replace one correctly is essential knowledge for any electrician or serious DIYer.

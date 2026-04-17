@@ -5,7 +5,7 @@ pubDate: 2026-04-07
 updatedDate: 2026-04-07
 author: "Ray Castellano"
 tags: ["lighting", "troubleshooting", "circuits", "DIY", "electrical"]
-image: "https://images.pexels.com/photos/1249611/pexels-photo-1249611.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/3616738/pexels-photo-3616738.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 A lighting problem can range from a burned-out bulb to a failing circuit breaker or loose connection in the wall. Systematic troubleshooting finds the cause quickly — and helps you avoid unnecessary parts replacement. This guide walks through the most common lighting circuit problems and how to diagnose them.
