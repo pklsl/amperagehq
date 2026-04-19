@@ -4,6 +4,7 @@ description: "Learn how to size a whole-house generator for your home. Calculate
 pubDate: 2026-04-19
 author: "AmperageHQ Team"
 tags: ["generators", "backup-power", "sizing", "installation"]
+image: "https://images.pexels.com/photos/10290624/pexels-photo-10290624.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 A power outage lasting hours is an inconvenience. One lasting days — from a hurricane, ice storm, or grid failure — can mean spoiled food, frozen pipes, a non-functional well pump, or lost access to life-sustaining medical equipment. A properly sized whole-house generator eliminates all of that.

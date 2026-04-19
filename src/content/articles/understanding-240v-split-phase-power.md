@@ -4,6 +4,7 @@ description: "How does 240V split-phase power work in residential homes? Learn a
 pubDate: 2026-04-19
 author: "AmperageHQ Team"
 tags: ["electrical-fundamentals", "240v", "split-phase", "residential", "education"]
+image: "https://images.pexels.com/photos/10645593/pexels-photo-10645593.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 If you've ever looked at a residential electrical panel and wondered why there are two rows of breakers — and how a regular outlet works at 120V while a dryer uses 240V from the same panel — you're asking the right question. Understanding split-phase power is fundamental to understanding residential electrical systems.

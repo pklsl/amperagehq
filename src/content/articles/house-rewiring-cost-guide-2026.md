@@ -4,6 +4,7 @@ description: "How much does it cost to rewire a house in 2026? Breakdown by home
 pubDate: 2026-04-19
 author: "AmperageHQ Team"
 tags: ["rewiring", "cost-guide", "residential", "electrical", "lead-gen"]
+image: "https://images.pexels.com/photos/3614757/pexels-photo-3614757.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 House rewiring is one of the largest electrical projects a homeowner can undertake — and one of the most difficult to budget for without understanding the variables. Quotes for the same home can vary by 50% or more depending on the electrician, access difficulty, and scope.

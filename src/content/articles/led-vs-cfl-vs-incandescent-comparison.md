@@ -4,6 +4,7 @@ description: "Compare LED, CFL, and incandescent light bulbs on efficiency, cost
 pubDate: 2026-04-19
 author: "AmperageHQ Team"
 tags: ["lighting", "led", "energy-efficiency", "bulbs", "affiliate"]
+image: "https://images.pexels.com/photos/10289545/pexels-photo-10289545.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 The incandescent light bulb had a 130-year run as the dominant artificial light source before LED technology finally displaced it. If you still have incandescent or CFL bulbs in your home, understanding the full picture — energy cost, light quality, lifespan, and environmental impact — makes the case for switching clearer than ever.

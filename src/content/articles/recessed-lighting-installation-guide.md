@@ -4,6 +4,7 @@ description: "Complete guide to recessed lighting installation: layout planning,
 pubDate: 2026-04-19
 author: "AmperageHQ Team"
 tags: ["lighting", "recessed-lighting", "installation", "wiring", "affiliate"]
+image: "https://images.pexels.com/photos/10258626/pexels-photo-10258626.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Recessed lighting transforms a room — it provides clean, modern illumination without the visual clutter of surface-mounted fixtures. But done poorly, it looks haphazard and leaves dark corners. This guide covers everything from layout planning through final trim installation so you get results that look professionally designed.

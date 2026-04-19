@@ -4,6 +4,7 @@ description: "Step-by-step guide to installing a 240V outlet for dryers, ranges,
 pubDate: 2026-04-19
 author: "AmperageHQ Team"
 tags: ["wiring", "240v", "outlets", "installation", "residential"]
+image: "https://images.pexels.com/photos/33812294/pexels-photo-33812294.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 A 240-volt outlet powers your dryer, electric range, welder, air compressor, and EV charger — the high-draw appliances that make a home functional. Installing a 240V receptacle involves a dedicated circuit, a double-pole breaker, and appropriately sized wire. Done correctly, it's a straightforward project. Done incorrectly, it creates fire and shock hazards.

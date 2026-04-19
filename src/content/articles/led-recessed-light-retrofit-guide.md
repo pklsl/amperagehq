@@ -4,6 +4,7 @@ description: "How to convert existing can lights to LED using retrofit kits. Dim
 pubDate: 2026-04-19
 author: "AmperageHQ Team"
 tags: ["lighting", "led", "recessed-lighting", "retrofit", "affiliate"]
+image: "https://images.pexels.com/photos/10806009/pexels-photo-10806009.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Millions of homes have existing recessed can lights with incandescent or CFL bulbs that are inefficient, run hot, and produce poor light quality. LED retrofit kits replace the entire trim, bulb, and sometimes driver in a single, easy-to-install unit — no electrician required in most cases. This guide explains how to choose the right kit and install it correctly.

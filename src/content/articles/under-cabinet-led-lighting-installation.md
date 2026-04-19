@@ -4,6 +4,7 @@ description: "Install hardwired or plug-in under cabinet LED lighting. Compare s
 pubDate: 2026-04-19
 author: "AmperageHQ Team"
 tags: ["lighting", "led", "kitchen", "under-cabinet", "affiliate"]
+image: "https://images.pexels.com/photos/13722898/pexels-photo-13722898.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Under cabinet lighting transforms a kitchen. It illuminates the workspace where you actually cut, chop, and prep — eliminating the shadows that overhead lights create when you're standing at the counter. It also adds warmth and depth to the kitchen aesthetic that's hard to achieve any other way.

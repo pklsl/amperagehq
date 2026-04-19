@@ -4,6 +4,7 @@ description: "Critical generator safety guide: carbon monoxide risks, backfeedin
 pubDate: 2026-04-19
 author: "AmperageHQ Team"
 tags: ["generators", "safety", "backup-power", "carbon-monoxide"]
+image: "https://images.pexels.com/photos/10397717/pexels-photo-10397717.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Portable generators kill people every year — not through electrical faults, but through two well-documented and entirely preventable hazards: carbon monoxide poisoning and backfeed electrocution. Understanding both risks and how to eliminate them is essential before operating any generator.

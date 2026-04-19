@@ -4,6 +4,7 @@ description: "Step-by-step video doorbell installation guide covering Ring, Nest
 pubDate: 2026-04-19
 author: "AmperageHQ Team"
 tags: ["video-doorbell", "smart-home", "security", "installation", "affiliate"]
+image: "https://images.pexels.com/photos/12508073/pexels-photo-12508073.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Video doorbells have become one of the most popular smart home devices — package theft prevention, visitor management, and security all in one device. Installing one is usually a Saturday project, but it involves more than just screwing a camera to your wall. This guide covers the complete installation process for the three most popular video doorbell brands.

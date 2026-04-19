@@ -4,6 +4,7 @@ description: "Learn the difference between manual and automatic transfer switche
 pubDate: 2026-04-19
 author: "AmperageHQ Team"
 tags: ["generators", "transfer-switch", "backup-power", "installation"]
+image: "https://images.pexels.com/photos/10117712/pexels-photo-10117712.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 A generator without a proper transfer switch is either useless (connected only by extension cords) or dangerous (connected without a transfer switch, risking backfeed). A transfer switch is the critical link between your generator and your home's electrical system — it ensures only one power source is connected at a time and provides safe, organized generator operation.

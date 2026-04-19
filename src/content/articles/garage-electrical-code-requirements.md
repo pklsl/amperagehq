@@ -4,6 +4,7 @@ description: "NEC garage electrical code: GFCI outlet requirements, lighting cir
 pubDate: 2026-04-19
 author: "AmperageHQ Team"
 tags: ["electrical-code", "garage", "gfci", "ev-charging", "nec"]
+image: "https://images.pexels.com/photos/16243257/pexels-photo-16243257.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 The garage is the workshop, EV charging station, and utility hub of the modern home — and its electrical requirements have evolved significantly to support these uses. From GFCI-protected receptacles to 240V EV charger circuits, this guide covers what the NEC requires for garages and what you should consider for a modern, functional garage electrical system.

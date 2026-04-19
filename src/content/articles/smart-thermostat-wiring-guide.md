@@ -4,6 +4,7 @@ description: "How to wire a smart thermostat. Understand thermostat wire colors,
 pubDate: 2026-04-19
 author: "AmperageHQ Team"
 tags: ["thermostat", "smart-home", "wiring", "hvac", "affiliate"]
+image: "https://images.pexels.com/photos/27638181/pexels-photo-27638181.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Smart thermostats save energy, increase comfort, and integrate with smart home systems — but installation confusion is one of the biggest barriers to adoption. The C-wire issue, wiring color mismatches, and heat pump compatibility questions leave many homeowners stalled at the wiring step. This guide clears up the confusion so you can complete your installation confidently.

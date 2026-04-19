@@ -4,6 +4,7 @@ description: "Learn how to identify aluminum wiring, understand the fire risks i
 pubDate: 2026-04-19
 author: "AmperageHQ Team"
 tags: ["aluminum-wiring", "safety", "repair", "residential", "fire-safety"]
+image: "https://images.pexels.com/photos/218445/pexels-photo-218445.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Millions of American homes built between 1965 and 1973 were wired with aluminum branch circuit wiring. At the time, a copper shortage made aluminum an economical alternative. What wasn't fully understood at the time was that aluminum's material properties create specific failure modes at connection points — failure modes that have been linked to house fires.

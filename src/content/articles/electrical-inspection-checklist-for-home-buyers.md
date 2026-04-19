@@ -4,6 +4,7 @@ description: "A complete electrical inspection checklist for home buyers. Evalua
 pubDate: 2026-04-19
 author: "AmperageHQ Team"
 tags: ["home-inspection", "electrical", "home-buying", "safety", "checklist"]
+image: "https://images.pexels.com/photos/21812146/pexels-photo-21812146.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 The electrical system is one of the most expensive and least visible components of a home. A home inspection addresses electrical concerns, but most general inspectors only evaluate what's readily visible — they're not licensed electricians. Understanding what to look for before buying saves you from expensive surprises after closing.

@@ -4,6 +4,7 @@ description: "How to install a whole-house surge protector. Understand Type 1 vs
 pubDate: 2026-04-19
 author: "AmperageHQ Team"
 tags: ["surge-protection", "installation", "panel", "safety", "affiliate"]
+image: "https://images.pexels.com/photos/10137188/pexels-photo-10137188.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 A single electrical surge can destroy electronics worth thousands of dollars — and it happens silently in milliseconds. Plug-in surge protectors at individual devices provide some protection, but a whole-house surge protective device (SPD) at the panel is the first and most effective line of defense, stopping surges before they enter your home's wiring.

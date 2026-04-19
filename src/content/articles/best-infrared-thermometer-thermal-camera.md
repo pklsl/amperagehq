@@ -4,6 +4,7 @@ description: "Detect hot spots, overloaded circuits, and failing connections wit
 pubDate: 2026-04-19
 author: "AmperageHQ Team"
 tags: ["tools", "thermal-camera", "infrared-thermometer", "diagnostics", "affiliate"]
+image: "https://images.pexels.com/photos/1787234/pexels-photo-1787234.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Infrared temperature measurement is one of the most powerful non-invasive diagnostic tools available to electricians. An overloaded circuit, failing breaker, loose connection, or undersized wire all show up as heat — and a thermal imager or infrared thermometer can find these problems before they become failures or fires.

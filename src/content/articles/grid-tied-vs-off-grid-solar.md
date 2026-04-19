@@ -4,6 +4,7 @@ description: "Compare grid-tied and off-grid solar systems. Understand inverter 
 pubDate: 2026-04-19
 author: "AmperageHQ Team"
 tags: ["solar", "off-grid", "grid-tied", "net-metering"]
+image: "https://images.pexels.com/photos/32497160/pexels-photo-32497160.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 The decision between a grid-tied and off-grid solar system is one of the most consequential choices in a solar installation. It affects system design, equipment selection, cost, reliability, and your relationship with your utility. Understanding the trade-offs clearly is essential before committing to either path.

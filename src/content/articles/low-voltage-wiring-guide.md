@@ -4,6 +4,7 @@ description: "Complete low-voltage wiring guide covering doorbell wiring diagram
 pubDate: 2026-04-19
 author: "AmperageHQ Team"
 tags: ["low-voltage", "thermostat", "doorbell", "networking", "affiliate"]
+image: "https://images.pexels.com/photos/10065200/pexels-photo-10065200.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Low-voltage wiring encompasses the communication, control, and lighting systems that run at significantly lower voltages than line-voltage electrical circuits — typically 12V DC, 24V AC, or below 50V. While the safety stakes are lower than line-voltage work (low-voltage wiring poses minimal shock risk), doing it correctly ensures reliable operation of thermostats, doorbells, security systems, networks, and landscape lighting.

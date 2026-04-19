@@ -4,6 +4,7 @@ description: "Complete guide to bathroom electrical code: GFCI zones, 20-amp cir
 pubDate: 2026-04-19
 author: "AmperageHQ Team"
 tags: ["electrical-code", "bathroom", "gfci", "nec", "residential"]
+image: "https://images.pexels.com/photos/12405529/pexels-photo-12405529.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Bathrooms are among the highest-risk rooms in a home for electrical shock — water, wet skin, and electricity in close proximity create conditions that standard wiring without proper safety devices can't safely handle. The NEC's bathroom electrical requirements are among the most strictly defined in the code. This guide explains what's required, why it matters, and how to verify compliance.

@@ -4,6 +4,7 @@ description: "Complete wiring guide for ceiling fans with lights. Covers single-
 pubDate: 2026-04-19
 author: "AmperageHQ Team"
 tags: ["wiring", "ceiling-fan", "lighting", "installation", "affiliate"]
+image: "https://images.pexels.com/photos/10117723/pexels-photo-10117723.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 A ceiling fan with an integrated light kit is one of the most practical fixtures in a home — cooling in summer, air circulation in winter, and overhead lighting all in one. But wiring a ceiling fan with a light correctly depends on what's in your wall box, how many switches you want, and whether you prefer remote or app control. This guide covers all three common scenarios.

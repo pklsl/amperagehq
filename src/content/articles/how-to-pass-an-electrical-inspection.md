@@ -4,6 +4,7 @@ description: "Learn why electrical inspections fail and how to prevent it. Cover
 pubDate: 2026-04-19
 author: "AmperageHQ Team"
 tags: ["permits", "inspections", "electrical-code", "nec", "checklist"]
+image: "https://images.pexels.com/photos/10871929/pexels-photo-10871929.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Failing an electrical inspection wastes time and delays your project — but it's avoidable. The same mistakes appear on inspection reports again and again. Understanding the most common failure reasons before you start work means you'll likely get through inspection on the first try.

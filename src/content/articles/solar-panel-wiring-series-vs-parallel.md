@@ -4,6 +4,7 @@ description: "Learn how to wire solar panels in series vs parallel. Understand v
 pubDate: 2026-04-19
 author: "AmperageHQ Team"
 tags: ["solar", "wiring", "series-parallel", "installation"]
+image: "https://images.pexels.com/photos/10731756/pexels-photo-10731756.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 When installing a solar array, one of the first decisions you'll make is how to connect the panels together — in series, in parallel, or a combination of both. This isn't just an academic exercise: the wiring configuration determines your system voltage, the wire sizes you'll need, your inverter compatibility, and how the system performs under shading.

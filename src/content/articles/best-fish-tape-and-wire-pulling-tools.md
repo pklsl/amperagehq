@@ -4,6 +4,7 @@ description: "Compare steel, fiberglass, and nylon fish tapes, glow rods, and wi
 pubDate: 2026-04-19
 author: "AmperageHQ Team"
 tags: ["tools", "fish-tape", "wire-pulling", "affiliate"]
+image: "https://images.pexels.com/photos/11404176/pexels-photo-11404176.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Pulling wire through walls, conduit, and ceiling cavities is a fundamental skill in electrical work — and having the right wire-pulling tools makes the difference between a quick, clean pull and an hour of frustration. This guide covers fish tapes, glow rods, wire-pulling accessories, and how to choose the right tool for each situation.

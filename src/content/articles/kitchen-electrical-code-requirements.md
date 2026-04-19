@@ -4,6 +4,7 @@ description: "NEC kitchen electrical code requirements for outlets, circuits, GF
 pubDate: 2026-04-19
 author: "AmperageHQ Team"
 tags: ["electrical-code", "kitchen", "nec", "gfci", "residential"]
+image: "https://images.pexels.com/photos/10099305/pexels-photo-10099305.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 The kitchen is the most electrically demanding room in the house. It concentrates high-draw appliances, wet surfaces, and frequent human activity into a small space — which is why NEC dedicates significant attention to kitchen electrical requirements. Whether you're renovating, building, or just curious whether your current kitchen meets code, this guide covers everything you need to know.

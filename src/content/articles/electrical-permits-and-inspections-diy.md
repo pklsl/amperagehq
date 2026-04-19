@@ -4,6 +4,7 @@ description: "Do you need an electrical permit for your project? State-by-state 
 pubDate: 2026-04-19
 author: "AmperageHQ Team"
 tags: ["permits", "inspections", "diy", "electrical-code", "regulations"]
+image: "https://images.pexels.com/photos/8293640/pexels-photo-8293640.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 The permit system exists to protect homeowners, future buyers, and the general public from dangerous electrical work. But many homeowners are uncertain about what requires a permit, whether they're legally allowed to do their own electrical work, and what the consequences of skipping the permit process are. This guide answers those questions clearly.

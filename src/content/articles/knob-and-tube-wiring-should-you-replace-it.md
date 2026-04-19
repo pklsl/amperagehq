@@ -4,6 +4,7 @@ description: "Everything homeowners need to know about knob and tube wiring: wha
 pubDate: 2026-04-19
 author: "AmperageHQ Team"
 tags: ["knob-and-tube", "old-wiring", "safety", "rewiring", "residential"]
+image: "https://images.pexels.com/photos/11105530/pexels-photo-11105530.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 If you own a home built before 1950, there's a real chance you have knob and tube wiring — or at least remnants of it. This guide explains what knob and tube is, why it matters today, and how to make a rational decision about what to do with it.

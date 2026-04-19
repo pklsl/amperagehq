@@ -4,6 +4,7 @@ description: "Master EMT conduit bending with this step-by-step guide. Learn to 
 pubDate: 2026-04-19
 author: "AmperageHQ Team"
 tags: ["conduit", "emt", "installation", "wiring", "skills"]
+image: "https://images.pexels.com/photos/14129562/pexels-photo-14129562.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Conduit bending is a fundamental electrician skill that separates a clean, professional installation from a messy one. Kinked conduit, incorrect angles, and improperly measured bends all waste material and create installation headaches. With the right tools and the understanding of a few basic formulas, bending EMT becomes straightforward and satisfying.

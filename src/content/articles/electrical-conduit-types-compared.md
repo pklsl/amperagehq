@@ -4,6 +4,7 @@ description: "Compare EMT, PVC, rigid metal, and flexible conduit types. Learn N
 pubDate: 2026-04-19
 author: "AmperageHQ Team"
 tags: ["conduit", "wiring", "installation", "nec", "affiliate"]
+image: "https://images.pexels.com/photos/12207608/pexels-photo-12207608.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Electrical conduit protects conductors from physical damage, moisture, and chemical exposure while providing a system that can be rewired without opening walls. Choosing the right conduit type involves matching the material to the application — outdoor, indoor, burial, or flexible — along with understanding cost, installation complexity, and NEC requirements.
