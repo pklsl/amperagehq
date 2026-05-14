@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 80" width="400" height="80">
+  <defs>
+    <linearGradient id="ampGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f97316"/>
+      <stop offset="100%" style="stop-color:#fdba74"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(10, 6)">
+    <rect width="60" height="60" rx="12" fill="url(#ampGrad3)"/>
+    <path d="M26 14 L30 14 L28 30 L36 30 L32 46 L34 32 L26 32 Z" fill="white"/>
+  </g>
+  <text x="82" y="42" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#1e1b4b">AmperageHQ</text>
+  <text x="82" y="62" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="500" fill="#ea580c" letter-spacing="3">ELECTRICAL</text>
+</svg>
